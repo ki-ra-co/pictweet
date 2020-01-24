@@ -75,3 +75,6 @@ gem 'kaminari'
 gem 'rspec-rails'
 gem 'factory_bot_rails'
 
+
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
